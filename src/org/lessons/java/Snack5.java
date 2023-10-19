@@ -50,6 +50,6 @@ public class Snack5 {
         }
 
         System.out.println(totale);
-
+        scanner.close();
     }
 }

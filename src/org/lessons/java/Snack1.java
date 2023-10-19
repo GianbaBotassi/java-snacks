@@ -18,5 +18,6 @@ public class Snack1 {
                 System.out.println(num + 1);
             }
         }
+        scanner.close();
     }
 }

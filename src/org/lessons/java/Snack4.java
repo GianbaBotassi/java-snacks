@@ -17,5 +17,6 @@ public class Snack4 {
 
         System.out.println(word.equals(reverseWord) ? "La parola è palindroma" : "La parola NON è palindroma");
 
+        scanner.close();
     }
 }
